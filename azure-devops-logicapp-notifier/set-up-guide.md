@@ -27,9 +27,12 @@ To do that:
 
 - go to **Organization Settings**
 
-![Organization Settings](images/process.png)
+![Organization Settings](images/organization-settings.png)
 
 - select **Process**
+
+![Process](images/process.png)
+
 - select the process that your project is using
 
 ![Edit Process](images/edit-process.png)
